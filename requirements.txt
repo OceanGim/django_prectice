@@ -1,1 +1,4 @@
 art==5.7
+asgiref==3.5.2
+Django==4.1.1
+sqlparse==0.4.2
